@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1493945627 source:d:\ailen\primerparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuario.h"
+	"producto.h"
+
+1493945310 d:\ailen\primerparcial\usuario.h
+	<stdio.h>
+	<stdlib.h>
+
+1493945310 source:d:\ailen\primerparcial\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"usuario.h"
+
+1493945745 source:d:\ailen\primerparcial\producto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"producto.h"
+	"usuario.h"
+
+1493945509 d:\ailen\primerparcial\producto.h
+	<stdio.h>
+	<stdlib.h>
+
